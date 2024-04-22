@@ -7,7 +7,7 @@ const FormSearch = () => {
         <form className="flex items-center border border-gray-400 rounded-xl">
         <input
           type="text"
-          placeholder="Log"
+          placeholder="Search Log"
           className="text-end 
           outline-none rounded-l-xl py-1 px-3 bg-transparent"
         />
